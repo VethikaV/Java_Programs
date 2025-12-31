@@ -8,7 +8,7 @@ class NextGreaterElement{
      for(int i=0;i<n;i++){
         arr[i]=sc.nextInt();
      }
-     System.out.print(nextLargerElement(arr));
+     System.out.print(nextLargerElement(arr)) ;
 
     }
     public static ArrayList<Integer> nextLargerElement(int[] arr) {
